@@ -35,7 +35,7 @@ To get this project up and running on your local machine:
 
 1) *Clone this repository:*
    ```bash
-   git clone https://github.com/yourusername/CalculatorGuiPython.git
+   git clone https://github.com/aryaman22-hubb/CalculatorGuiPython.git
    
 2) ```*cd CalculatorGuiPython*```
   
